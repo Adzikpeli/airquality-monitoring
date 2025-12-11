@@ -6,7 +6,7 @@
 	url = https://github.com/lhg96/ArimAirSerial.git
 [submodule "air-quality-api"]
 	path = air-quality-api
-	url = https://github.com/lhg96/ArimAirGAE.git
+	url = https://github.com/lhg96/air-quality-api.git
 [submodule "air-quality-client"]
 	path = air-quality-client
 	url = https://github.com/lhg96/ArimAirGAEClient.git
